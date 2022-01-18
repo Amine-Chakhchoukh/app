@@ -1,0 +1,7 @@
+name: app
+channels:
+  - conda-forge
+dependencies:
+  - numpy==1.16.0
+  - voila
+  - ipywidgets
